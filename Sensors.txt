@@ -1,0 +1,9 @@
+Sensors Programming Team needs on the robot:
+	- encoders
+	- current sensors
+	- potentiometer (on the arm and shooter)
+	- limit switch (check if ball is in shooter)
+	- accelerometer (already on the roborio)
+	- gyro (not on the roborio)
+	- camera
+	- distance sensor (on front and back)

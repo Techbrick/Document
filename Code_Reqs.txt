@@ -1,0 +1,23 @@
+Code Requirements:
+	Drive Train must:
+		- implement tank drive
+		
+	Shooter must:
+		- operate a shooting device
+		- be able to load boulders into the shooting device
+		
+	Arm must:
+		- operate an arm
+		
+	Position must:
+		- keep track of where it is, and its orientation
+		- be able to orient itself toward the tower
+		
+	Aimer must:
+		- be able to return angle and power in order to shoot a boulder into the tower automatically
+		
+	(independent functions, or in main loop)
+		- automatically cross at least two obstacles
+		- display a camera feed to the driver's station
+		- display status signals to the driver's station
+		- implement an autonomous mode, according to strategy decided on by team
